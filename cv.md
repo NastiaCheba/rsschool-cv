@@ -1,4 +1,5 @@
 # Chebotareva Anastasiia
+
 ## Contacts:
 * **Discord:** nastiacheba
 * **E-mail:** anastasiachbtrv@gmail.com
@@ -23,4 +24,11 @@
 <span style="color:#B842C7"><i>New Unicorn?</i></span> <a href="Sign up Free"><small>Sign Up</small></a>
       
     </form> ```
-    
+   ## Education and courses
+   - SoloLearn:
+   * HTML
+   * CSS
+   ## Languages:
+- *English* B2 (IELTS TEST)
+- *Russian* Native
+- *Spanish* A1 
