@@ -27,10 +27,10 @@
 ```
 
    ## Education and courses
-   - SoloLearn:
-   * HTML
-   * CSS
+   SoloLearn:
+   * <sub>HTML</sub>
+   * <sub>CSS</sub>
    ## Languages:
-- *English* B2 (IELTS TEST)
-- *Russian* Native
-- *Spanish* A1 
+- *English* <sub>B2 (IELTS TEST)</sub>
+- *Russian* <sub>Native</sub>
+- *Spanish* <sub>A1</sub> 
