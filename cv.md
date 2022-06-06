@@ -7,7 +7,9 @@
 *I want to be a successful front-end developer in a short-term period!*
 ## Code example:
 <sub>not perfect yet </sub> 
-```<!DOCTYPE html>
+
+```
+<!DOCTYPE html>
 <html>
 <head>
   <title>Unicorn Magic</title>
