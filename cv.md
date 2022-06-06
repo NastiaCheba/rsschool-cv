@@ -27,11 +27,11 @@
 </html> 
 ```
 
-   ## Education and courses
-   SoloLearn:
-   * <sub>HTML</sub>
-   * <sub>CSS</sub>
-   ## Languages:
+## Education and courses
+SoloLearn:
+* <sub>HTML</sub>
+* <sub>CSS</sub>
+## Languages:
 - *English* <sub>B2 (IELTS TEST)</sub>
 - *Russian* <sub>Native</sub>
 - *Spanish* <sub>A1</sub> 
