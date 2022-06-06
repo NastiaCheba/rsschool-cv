@@ -4,7 +4,7 @@
 * **E-mail:** anastasiachbtrv@gmail.com
 ## About myself: 
 *I want to be a successful front-end developer in a short-term period!*
-##Code example:
+## Code example:
 <sub>not perfect yet </sub> 
 ```<!DOCTYPE html>
 <html>
