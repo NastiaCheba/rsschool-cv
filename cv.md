@@ -1,7 +1,10 @@
-# Chebotareva Anastasiia <br /> ## Contacts:
+# Chebotareva Anastasiia
+### Contacts:
 * **Discord:** nastiacheba
-* **E-mail:** anastasiachbtrv@gmail.com <br /> ## About myself: 
-*I want to be a successful front-end developer in a short-term period!* <br /> ## Code example:
+* **E-mail:** anastasiachbtrv@gmail.com
+### About myself: 
+*I want to be a successful front-end developer in a short-term period!*
+### Code example:
 <sub>not perfect yet </sub> 
 
 ```
@@ -22,11 +25,11 @@
 </body>
 </html> 
 ```
-## Education and courses:
+### Education and courses:
 SoloLearn:
 * <sub>HTML</sub>
 * <sub>CSS</sub>
-## Languages:
+### Languages:
 - *English* <sub>B2 (IELTS TEST)</sub>
 - *Russian* <sub>Native</sub>
 - *Spanish* <sub>A1</sub> 
