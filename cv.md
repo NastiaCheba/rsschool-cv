@@ -9,8 +9,7 @@
 <sub>not perfect yet </sub> 
 
 ```
-<!DOCTYPE html>
-<html>
+<html!>
 <head>
   <title>Unicorn Magic</title>
   <h2 align="center"><span style="color:#B842C7">Welcome to Unicorn Game!</span></h2>
