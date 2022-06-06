@@ -21,9 +21,11 @@
     <span style="color:white"><b>Password </b></span><input type="password" name="password" /><br />
   <a href="Forgot password"><small>Forgot password</small></a>
   <p align="center"/><input type="submit" value="Login" style="color:#B842C7; /"></p>
-<span style="color:#B842C7"><i>New Unicorn?</i></span> <a href="Sign up Free"><small>Sign Up</small></a>
-      
-    </form> 
+<span style="color:#B842C7"><i>New Unicorn?</i></span> <a href="Sign up Free"><small>Sign Up</small></a></form> </div>
+</body>
+</html> 
+```
+
    ## Education and courses
    - SoloLearn:
    * HTML
