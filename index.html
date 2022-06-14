@@ -1,22 +1,109 @@
-
-<!doctype html>
- 
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
- 
-  <title>CV</title>
-  <meta name="description" content="Description">
-  <meta name="author" content="Name Name">
- 
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
- 
-  <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap" rel="stylesheet">
 </head>
- 
 <body>
-  <script src="js/scripts.js"></script>
+    <header class="header">
+        <div class="container header-container">
+            <nav class="nav">
+                <ul class="nav-list">
+                  <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                  <li class="nav-item"><a href="#summary" class="nav-link">About me</a></li>
+                  <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                  <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+                  <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                  <li class="nav-item"><a href="#languages" class="nav-link">English</a></li>
+                </ul>
+              </nav>
+    </div>
+    </header>
+
+    <main class="main">
+        <div class="container main-container">
+<section class="section section-profile" id="profile">
+    <img src="./assets/img/avatar.jpg" alt="" class="section-profile-logo">
+    <div class="section-profile-title">
+        <h1 class="section-title main-title">Anastasiia Chebotareva</h1>
+        <h3 class="section-subtitle">Junior Front-End Developer</h3>
+      </div>
+</section>
+
+
+<section class="section" id="contacts">
+    <h2 class="section-title">My contacts</h2>
+    <ul class="section-list">
+        <li class="section-item contacts-item">
+          Antalya, Turkey
+        </li>
+        <li class="section-item contacts-item">
+          Email: <a href="mailto:anastasiachbtrv@gmail.com" title="email">anastasiachbtrv@gmail.com</a>
+        </li>
+        <li class="section-item contacts-item">
+          Github: <a href="https://github.com/nastiacheba" title="github">nastiacheba</a>
+        </li>
+      </ul>
+    </section>
+
+    <section class="section" id="summary">
+        <h2 class="section-title">Summary</h2>
+        <p>
+            Hello! My first attempt to write a code was about 10 years ago, but there were not many resources back then. Now I am full of desire to finally reach my goals in front-end development. 
+        </p>
+      </section>
+
+    <section class="section" id="skills">
+        <h2 class="section-title">Skills</h2>
+        <ul class="section-list">
+            <li class="section-item">
+              Web-development:<span> HTML5, CSS3</span>
+            </li>
+            <li class="section-item">
+              Version control:<span> GIT, Github</span>
+            </li>
+            <li class="section-item">
+              Graphics:<span> Photoshop</span>
+            </li>
+          </ul>
+        </section>
+
+        <section class="section" id="code">
+            <h2 class="section-title">Example of code</h2>
+            <pre class="pre"><code>section-profile-logo {
+                width: 200px;
+                height: 200px;
+                object-fit: cover;}</code></pre>
+            </section>
+
+            <section class="section" id="education">
+                <h2 class="section-title">Education</h2>
+                <p>Volgograd State University - International Studies</p>
+                </section>
+
+                <section class="section" id="languages">
+                    <h2 class="section-title">Languages</h2>
+                    <p>Russian - Native</p>
+                    <p>English - B2 (Upper-Intermediate)</p>
+                    </section>
+
+        </div>
+    </main>
+
+
+    <footer class="footer">
+        <div class="container footer-container">
+                <div>© 2022 <a href="https://github.com/nastiacheba" class="github nav-link">nastiacheba</a></div>
+                <a href="https://rs.school/js/" class="rss"></a>
+              </div>
+        </div>
+    </footer>
 </body>
 </html>
